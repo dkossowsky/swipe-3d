@@ -9,13 +9,13 @@ require([
   // Your scene on the left
   var websceneTop = new WebScene({
    portalItem: {
-     id: "93cd5ed5695e49859ff07fd835cc2b10"
+     id: "a13fa639f09e4dbca395e5b192876c52"
    }
   });
   // Your scene on the right
   var websceneBottom = new WebScene({
     portalItem: {
-      id: "0956e5181e1c4ddd86d894733fa2b444"
+      id: "767199eae13548ec823534889afb71fe"
     }
   });
 
