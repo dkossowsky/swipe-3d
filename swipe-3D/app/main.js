@@ -9,7 +9,7 @@ require([
   // Your scene on the left
   var websceneTop = new WebScene({
    portalItem: {
-     id: "a13fa639f09e4dbca395e5b192876c52"
+     id: "0886807a10c849468a9bc8debd98479c"
    }
   });
   // Your scene on the right
