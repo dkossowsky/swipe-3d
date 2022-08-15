@@ -15,7 +15,7 @@ require([
   // Your scene on the right
   var websceneBottom = new WebScene({
     portalItem: {
-      id: "767199eae13548ec823534889afb71fe"
+      id: "fc9f85c9bdb040dfb1030b3e87cd2da5"
     }
   });
 
